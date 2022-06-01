@@ -1,0 +1,4 @@
+<launch>
+    <node name="read_odometry" pkg="odometry" type="serial_port.py" output="screen"></node>
+    <node name="motor_control" pkg="odometry" type="motor_control.py" output="screen"></node>
+</launch>
