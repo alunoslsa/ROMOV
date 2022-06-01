@@ -1,0 +1,6 @@
+This file contain parameters for odometry calibration
+
+Distans between wheels - 185 mm
+Wheels diameter - 70 mm
+Encoder ticks per revolution - 64 ticks
+Gear box ratio - 70:1
